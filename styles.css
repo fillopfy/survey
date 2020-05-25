@@ -1,0 +1,24 @@
+body{
+	width:100%;
+	margin:0;
+	padding:0;
+	top:0;
+	left:0;
+	background: #ffffcc;
+}
+
+#title{
+	text-align: center;
+}
+
+#description{
+	text-align: center;
+}
+
+.form{
+	margin:10%;
+	border:4px solid grey;
+	padding:30px;
+	font-weight: bold;
+	background: #ff99cc;
+}
